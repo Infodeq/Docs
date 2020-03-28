@@ -6,9 +6,7 @@ This Privacy Policy describes the practices of the "How-I-Feel" application and 
 
 ## What information we collect
 
-When you install the "How-I-Feel" application on your mobile device you are asked to provide your mobile phone number. The mobile number is used to send you a one-time registration code to ensure authenticity of the user. Your mobile phone number is not shared with any outside parties.
-
-When you use the application, you are asked to provide gender, year of birth and presence of basic symptoms of illness such as fever, cough, runny nose, chest pain. Your mobile device is asked to share "coarse location" based on WiFi or mobile cell data (or both) to determine the device's location with an accuracy approximately equivalent to a city block.
+When you use the application, you agree to share your gender, year of birth and presence of basic symptoms of illness such as fever, cough, runny nose, chest pain. Your mobile device shares your geographic location which is included in anonymous health reports.
 
 ## What information we share
 
